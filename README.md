@@ -1,5 +1,7 @@
 ## Custom Video Player
 
+https://sergeijolley.github.io/custom-video-player/
+
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
 ## Project Specifications
